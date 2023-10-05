@@ -24,7 +24,6 @@ public class Main {
                 case 3:
                     System.out.println("Выход из системы...");
                     System.out.println("POka");
-                    System.out.println("POka 1 more");
                     flag = false;
                     break;
                 case 2:

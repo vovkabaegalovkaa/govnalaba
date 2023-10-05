@@ -23,8 +23,6 @@ public class Main {
                     break;
                 case 3:
                     System.out.println("Выход из системы...");
-                    System.out.println("POka");
-                    System.out.println("Poka 1 more");
                     flag = false;
                     break;
                 case 2:
